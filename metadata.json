@@ -1,0 +1,3197 @@
+{
+  "files": [
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": true,
+      "owners": [
+        {
+          "displayName": "daytripbaligopro",
+          "kind": "drive#user",
+          "me": false,
+          "permissionId": "07280546108719186305",
+          "emailAddress": "daytripbaligopro@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a-/ALV-UjULTgwEmfiRqHU6Tfjb_82RJf0kD2QSeQ7kiUPEdP4flLjRK_c=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "13601879519746992260",
+          "displayName": "komangryan",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a-/ALV-UjVd1a0XEzzPp5yy-hBGrdnqUVUdbOC8hIXof3pvpP3kEt7IX50=s64",
+          "emailAddress": "komangryan@gmail.com",
+          "role": "writer",
+          "deleted": false,
+          "pendingOwner": false
+        },
+        {
+          "id": "05087984949191709399",
+          "displayName": "weda.dharmabhushana",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a-/ALV-UjWCqBT9ApLo7I79rLBfB3vvjTwKdhzIJ_zGWSsfssdukkjPbl-O=s64",
+          "emailAddress": "weda.dharmabhushana@gmail.com",
+          "role": "writer",
+          "deleted": false,
+          "pendingOwner": false
+        },
+        {
+          "id": "anyoneWithLink",
+          "type": "anyone",
+          "kind": "drive#permission",
+          "role": "writer",
+          "allowFileDiscovery": false
+        },
+        {
+          "id": "07280546108719186305",
+          "displayName": "daytripbaligopro",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a-/ALV-UjULTgwEmfiRqHU6Tfjb_82RJf0kD2QSeQ7kiUPEdP4flLjRK_c=s64",
+          "emailAddress": "daytripbaligopro@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1-SqIiQ8I7xMnJtM3_Y_AWfbp8W0M-Ksb",
+      "name": "SHARED TOUR",
+      "createdTime": "2022-08-01T06:02:48.645Z",
+      "modifiedTime": "2024-05-31T10:28:45.426Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.map",
+      "shared": true,
+      "owners": [
+        {
+          "displayName": "eoin.reilly",
+          "kind": "drive#user",
+          "me": false,
+          "permissionId": "15037918776973026341",
+          "emailAddress": "eoin.reilly@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a-/ALV-UjXGumJWirCu0ixfBiNuVjNrBpM7kZO9iediFj9rtJEkEnLlaIQ=s64"
+        }
+      ],
+      "id": "1IwY8iqCnoJCdcp6sz-Xzo9ca_oI",
+      "name": "Wicklow Way Trail",
+      "createdTime": "2009-02-16T12:21:13.915Z",
+      "modifiedTime": "2024-05-29T08:53:18.505Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "image/jpeg",
+      "shared": true,
+      "owners": [
+        {
+          "displayName": "akashharsana2",
+          "kind": "drive#user",
+          "me": false,
+          "permissionId": "14431150976638851033",
+          "emailAddress": "akashharsana2@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a-/ALV-UjUcESjqJvyWW33iiWmH8ZGFa6KTkZfNf2zaAht41UgvStSJ4g=s64"
+        }
+      ],
+      "size": "6301686",
+      "id": "1fYgqqRlzvvtT0cb5B5KSVmsmzTumGhAp",
+      "name": "Nose fixed.jpg",
+      "createdTime": "2024-05-23T02:36:14.598Z",
+      "modifiedTime": "2024-05-23T02:36:21.213Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/pdf",
+      "shared": true,
+      "owners": [
+        {
+          "displayName": "tascaelporron",
+          "kind": "drive#user",
+          "me": false,
+          "permissionId": "06306220441722074404",
+          "emailAddress": "tascaelporron@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a-/ALV-UjXOxzJIpafmPcJfHmnKPztHSsuyzdgi-_SkTrWt4V-7e5FOqg=s64"
+        }
+      ],
+      "size": "1998259",
+      "id": "16SOJUZMcke6hzZiTlEMEzxNVSrMkoGrv",
+      "name": "CARTA EL PORRON.pdf",
+      "createdTime": "2021-10-28T11:43:59.540Z",
+      "modifiedTime": "2024-05-22T12:41:38.051Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/pdf",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "size": "3195080",
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1ILHDbYxY2ghT6D0COv_HKzKbtUdKdMnI",
+      "name": "Kaczynski Anti-Tech Revolution Why and How.pdf",
+      "createdTime": "2024-05-08T08:31:31.411Z",
+      "modifiedTime": "2024-05-08T08:30:58.321Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/pdf",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "size": "3421746",
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "19tDcSmsM1FiUgaMwG4Rzooy-0uvv6V5p",
+      "name": "Kaczynski Anti-Tech Revolution Why and How_copy.pdf",
+      "createdTime": "2024-04-21T23:15:29.222Z",
+      "modifiedTime": "2024-04-21T23:15:26.836Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.document",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "size": "2826",
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1IwBZLPfMCCRnLeTE2OZC2Hjl_6JS3m5TDBBNy-YvsJw",
+      "name": "Lee camping stuff",
+      "createdTime": "2024-04-20T22:19:52.446Z",
+      "modifiedTime": "2024-04-20T22:20:22.414Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/pdf",
+      "shared": true,
+      "owners": [
+        {
+          "displayName": "restaurante.italiano.sargo",
+          "kind": "drive#user",
+          "me": false,
+          "permissionId": "06542426091056325702",
+          "emailAddress": "restaurante.italiano.sargo@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a-/ALV-UjV6v9BsXqKvo-cKunIg_RUoSCXCJXKkINt9e5rQu0f5kLknx9o=s64"
+        }
+      ],
+      "size": "1538071",
+      "id": "115pJ9JPciG65YB6J9Ikxl24DeFjAmdk4",
+      "name": "OK MENÚ A4 POROSO SARGO ABRIL 24 VIR.pdf",
+      "createdTime": "2024-04-16T08:54:21.582Z",
+      "modifiedTime": "2024-04-16T08:54:51.040Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.document",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "size": "27543",
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1PhxfGWAgKyMkeEsIhS18CiG64vd4l3ya6hgcwaWP1do",
+      "name": "2024_03_26_Short,_Shane_-_BFCS_Ireland_Contract.docx",
+      "createdTime": "2024-04-05T15:33:11.694Z",
+      "modifiedTime": "2024-04-05T15:33:15.401Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "size": "1357518",
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1CCWJLxZpO4Vza0L5CdA8Oqw_7_N4EJ2d",
+      "name": "05. New Starter Form.docx",
+      "createdTime": "2024-04-04T08:35:16.000Z",
+      "modifiedTime": "2024-04-05T15:12:54.615Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/pdf",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "size": "738899",
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "11Qx0IvsmLSy9azkauIfDTE06Ca9Aqmuh",
+      "name": "2024_03_26_Short,_Shane_-_BFCS_Ireland_Contract.docx.pdf",
+      "createdTime": "2024-04-04T08:35:16.000Z",
+      "modifiedTime": "2024-04-04T08:35:16.000Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.spreadsheet",
+      "shared": true,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "size": "4780",
+      "permissions": [
+        {
+          "id": "03137382267120905148",
+          "displayName": "Kultumi",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocJ30KBCJQRKVBpswvSNhSaA5El1gmTILTdQ4uo273JVEBIDbA=s64",
+          "emailAddress": "KultumiDJ@gmail.com",
+          "role": "writer",
+          "deleted": false,
+          "pendingOwner": false
+        },
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1wcD504eJeQTf13fuFFFypDnrRzFews0Ek1QUduvID0E",
+      "name": "budget",
+      "createdTime": "2024-03-23T15:36:45.174Z",
+      "modifiedTime": "2024-03-26T20:31:28.280Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/pdf",
+      "shared": true,
+      "owners": [
+        {
+          "displayName": "design",
+          "kind": "drive#user",
+          "me": false,
+          "permissionId": "05650250435079366579",
+          "emailAddress": "design@theungasan.com",
+          "photoLink": "https://lh3.googleusercontent.com/a-/ALV-UjUGwMgNkMhidgoQOXWj4kCE_V18KXzRTDrQy2u6db7Nh9B71w=s64"
+        }
+      ],
+      "size": "1278260",
+      "id": "1zQmQ4eh1Qsy_mwXlWxPey9e-3oUwCVYq",
+      "name": "Sundays Tequila Menu.pdf",
+      "createdTime": "2023-07-21T01:19:18.915Z",
+      "modifiedTime": "2024-03-07T01:17:31.284Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "video/mp4",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "size": "603078038",
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1Wq5yrXVRbL3fVOqhBz5gqC7RK53j2Usx",
+      "name": "dji_mimo_20240123_154008_0_1706090977500_video.mp4",
+      "createdTime": "2024-01-26T12:58:11.954Z",
+      "modifiedTime": "2024-01-26T10:06:13.887Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "video/mp4",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "size": "1113462772",
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1WpM182Gh1jUiXkO7FtRKNfRhlhEK2eKM",
+      "name": "dji_mimo_20240123_135526_0_1706091490399_video.mp4",
+      "createdTime": "2024-01-26T12:36:26.739Z",
+      "modifiedTime": "2024-01-26T10:06:13.801Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "video/mp4",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "size": "2546940159",
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1Wot8UCR4ETP5mVbeo27cDKG75vaY920r",
+      "name": "dji_mimo_20240123_144528_0_1706092473622_video.mp4",
+      "createdTime": "2024-01-26T11:53:43.332Z",
+      "modifiedTime": "2024-01-26T10:06:13.710Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "video/mp4",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "size": "2112677308",
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1WgRYiVtJDAhv_PaZZRkOpiVTIskWgofG",
+      "name": "dji_mimo_20240123_135144_0_1706092562449_video.mp4",
+      "createdTime": "2024-01-26T11:36:48.347Z",
+      "modifiedTime": "2024-01-26T10:04:44.307Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1WbKOsq01MCcTmgTiuqKsXOPWbXB7aMth",
+      "name": "New Zealand",
+      "createdTime": "2024-01-26T10:03:35.492Z",
+      "modifiedTime": "2024-01-26T10:03:35.492Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/pdf",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "size": "260122",
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1O5zVJmcaK5MWEPRKPeIV70C1CVCNYWgS",
+      "name": "car_hire_contract.pdf",
+      "createdTime": "2024-01-17T06:04:29.499Z",
+      "modifiedTime": "2024-01-25T06:47:20.861Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "video/mp4",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "size": "829826285",
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1SAqQ4A0yOhDZAQmFZ_eztF8qcj43QTVP",
+      "name": "dji_mimo_20240122_151734_0_1706092590782_video.mp4",
+      "createdTime": "2024-01-25T06:40:12.473Z",
+      "modifiedTime": "2024-01-25T06:06:24.838Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "video/mp4",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "size": "829826285",
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1S3WZyIFtZELMHImGvR0fV0OiQQiPw-S8",
+      "name": "dji_mimo_20240122_151734_0_1706092590782_video.mp4",
+      "createdTime": "2024-01-25T06:34:33.620Z",
+      "modifiedTime": "2024-01-25T05:59:42.721Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1QaNrc0Pz3hN-YGvReYZwjFdViIKwJ9Nq",
+      "name": "DJI",
+      "createdTime": "2024-01-25T00:30:50.788Z",
+      "modifiedTime": "2024-01-25T00:30:50.788Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1z1EGZTzT-XhA0bS3abxXKsmMg6qBoUNA",
+      "name": "001_03_05_23 (1)",
+      "createdTime": "2024-01-16T06:23:50.402Z",
+      "modifiedTime": "2024-01-16T06:23:50.402Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1sM6Qj8vyLRL1Nh6ISgoKMlIfxkLGpDKv",
+      "name": "camera_bkps (1)",
+      "createdTime": "2024-01-16T06:23:49.429Z",
+      "modifiedTime": "2024-01-16T06:23:49.429Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1tTNf-l0v0AsGWZ2834z07DJC3zKFMxpv",
+      "name": "09",
+      "createdTime": "2024-01-16T06:23:30.723Z",
+      "modifiedTime": "2024-01-16T06:23:30.723Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "11yUCymCSzJWg6EA6kR7L47gJBU4zD1xh",
+      "name": "images",
+      "createdTime": "2024-01-16T06:23:30.723Z",
+      "modifiedTime": "2024-01-16T06:23:30.723Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1Jzq2iN6UQ4hDxclZAxasTZc2LKVfwrYf",
+      "name": "refs",
+      "createdTime": "2024-01-16T06:23:30.723Z",
+      "modifiedTime": "2024-01-16T06:23:30.723Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1xWYYzIUCQzVRiAyNrnXIejo89NO0Eb_h",
+      "name": "08",
+      "createdTime": "2024-01-16T06:23:30.723Z",
+      "modifiedTime": "2024-01-16T06:23:30.723Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1TqcUYR79HKBACsjKOQy1wOV75wSee6X9",
+      "name": "1e",
+      "createdTime": "2024-01-16T06:23:30.723Z",
+      "modifiedTime": "2024-01-16T06:23:30.723Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1L24aYk9H2n7UYzGq6IYcPhSq0aTXmLFU",
+      "name": "06",
+      "createdTime": "2024-01-16T06:23:30.723Z",
+      "modifiedTime": "2024-01-16T06:23:30.723Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1fy2CXdDCwyQzuyLz4TbdSN1yhCHJb-3K",
+      "name": "remotes",
+      "createdTime": "2024-01-16T06:23:30.723Z",
+      "modifiedTime": "2024-01-16T06:23:30.723Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1nUW87LvvCj2Cnjf3sMfBWO9YXQWUxl5Y",
+      "name": "origin",
+      "createdTime": "2024-01-16T06:23:30.723Z",
+      "modifiedTime": "2024-01-16T06:23:30.723Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1KJaB0IVcDRoV312vBlUmWUcaL3uxYYJX",
+      "name": "03",
+      "createdTime": "2024-01-16T06:23:30.723Z",
+      "modifiedTime": "2024-01-16T06:23:30.723Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1boVS5c7NbPAu5Gk9-g7b8D-osX2nKWux",
+      "name": "heads",
+      "createdTime": "2024-01-16T06:23:30.723Z",
+      "modifiedTime": "2024-01-16T06:23:30.723Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1G3PV6iUha4BVsWY982d79dmFnGKfdVZ5",
+      "name": "43",
+      "createdTime": "2024-01-16T06:23:29.434Z",
+      "modifiedTime": "2024-01-16T06:23:29.434Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1xPL-L63aRy0zgxVZf9hOK30dzN_YycB2",
+      "name": "42",
+      "createdTime": "2024-01-16T06:23:29.434Z",
+      "modifiedTime": "2024-01-16T06:23:29.434Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "17hx0PR9A3YKPZIM14xaibPP4sypSbqfn",
+      "name": "31",
+      "createdTime": "2024-01-16T06:23:29.434Z",
+      "modifiedTime": "2024-01-16T06:23:29.434Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1sNNpuPhFcfQk5YmaEKBeh2x6sxOsYe9s",
+      "name": "36",
+      "createdTime": "2024-01-16T06:23:29.434Z",
+      "modifiedTime": "2024-01-16T06:23:29.434Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1HMvt6CEF6VQs-IuhFe5rb5dY2qZuBTDk",
+      "name": "1f",
+      "createdTime": "2024-01-16T06:23:29.434Z",
+      "modifiedTime": "2024-01-16T06:23:29.434Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1v4GynJ4wdrH4YjpWkowzyNdyyp9cspao",
+      "name": "2a",
+      "createdTime": "2024-01-16T06:23:29.434Z",
+      "modifiedTime": "2024-01-16T06:23:29.434Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1VgV2ti_a3_4gLveLxNlK63X6PBg_P9h7",
+      "name": "3d",
+      "createdTime": "2024-01-16T06:23:29.434Z",
+      "modifiedTime": "2024-01-16T06:23:29.434Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1Ynr3kZ5OjejBdPICqKHePKZU6mvUoEBz",
+      "name": "24",
+      "createdTime": "2024-01-16T06:23:29.434Z",
+      "modifiedTime": "2024-01-16T06:23:29.434Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1cWbqxnKDfHCcVrXSdmwzXo_d-y2is2UM",
+      "name": "25",
+      "createdTime": "2024-01-16T06:23:29.434Z",
+      "modifiedTime": "2024-01-16T06:23:29.434Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1NDWkvanzHKMLhLGA8LC6GtDrkqdzCKMa",
+      "name": "3c",
+      "createdTime": "2024-01-16T06:23:29.434Z",
+      "modifiedTime": "2024-01-16T06:23:29.434Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1uSUkC616kZq9mNqKQOgOJKR5LK7Z6Yvr",
+      "name": "88",
+      "createdTime": "2024-01-16T06:23:27.936Z",
+      "modifiedTime": "2024-01-16T06:23:27.936Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1OIL8atSJyRcYgwYCZg3v6bKcIVQ6IBR2",
+      "name": "47",
+      "createdTime": "2024-01-16T06:23:27.936Z",
+      "modifiedTime": "2024-01-16T06:23:27.936Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1GXfjTqQgeorSSuEzJtdjp9K7cDOw2kPQ",
+      "name": "7b",
+      "createdTime": "2024-01-16T06:23:27.936Z",
+      "modifiedTime": "2024-01-16T06:23:27.936Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "17sBTCYxvTuZvCYd0S7RwF21iAsSlHdtA",
+      "name": "68",
+      "createdTime": "2024-01-16T06:23:27.936Z",
+      "modifiedTime": "2024-01-16T06:23:27.936Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1b4XZTdJNzmdN5peFAvvT4yMqQ282bGCi",
+      "name": "75",
+      "createdTime": "2024-01-16T06:23:27.936Z",
+      "modifiedTime": "2024-01-16T06:23:27.936Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1tTIqSo47zSd1I7o500wMO5L-OCwDtT0c",
+      "name": "91",
+      "createdTime": "2024-01-16T06:23:27.936Z",
+      "modifiedTime": "2024-01-16T06:23:27.936Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1uvmCD1CICwZv4c1kNOQYamot_jUmANw1",
+      "name": "54",
+      "createdTime": "2024-01-16T06:23:27.936Z",
+      "modifiedTime": "2024-01-16T06:23:27.936Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1m8LrOSD5fSRGPjWpDwyjXLl9jbD7n-7v",
+      "name": "6e",
+      "createdTime": "2024-01-16T06:23:27.936Z",
+      "modifiedTime": "2024-01-16T06:23:27.936Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1p7sIX7pdTYZxuXFaxJeyhi3s_WlTcgVo",
+      "name": "8d",
+      "createdTime": "2024-01-16T06:23:27.936Z",
+      "modifiedTime": "2024-01-16T06:23:27.936Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1mPdXXLTHVr5nMujGux-3BGSqjScuHQ-S",
+      "name": "60",
+      "createdTime": "2024-01-16T06:23:27.936Z",
+      "modifiedTime": "2024-01-16T06:23:27.936Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1ySr2fmZeEwD8S0jXtdgvvRU9uQT68XsH",
+      "name": "a9",
+      "createdTime": "2024-01-16T06:23:26.066Z",
+      "modifiedTime": "2024-01-16T06:23:26.066Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1alW231QK5Jt-YwVZ0lKEgTZmPC3bGJB4",
+      "name": "9a",
+      "createdTime": "2024-01-16T06:23:26.066Z",
+      "modifiedTime": "2024-01-16T06:23:26.066Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1T1v_IydQNhkTRfX3bgOC0NYyuUMD5-il",
+      "name": "bf",
+      "createdTime": "2024-01-16T06:23:26.066Z",
+      "modifiedTime": "2024-01-16T06:23:26.066Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1pVI8mQ7sc0kVYjiGL7OFGzkI695FooO3",
+      "name": "98",
+      "createdTime": "2024-01-16T06:23:26.066Z",
+      "modifiedTime": "2024-01-16T06:23:26.066Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1YsvzTy8hhJzdySUTp7azJeKjxz_8C1Lu",
+      "name": "95",
+      "createdTime": "2024-01-16T06:23:26.066Z",
+      "modifiedTime": "2024-01-16T06:23:26.066Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1nFiXUm50ShyuCD87UaUAZ_YWeRZR9Hj-",
+      "name": "9d",
+      "createdTime": "2024-01-16T06:23:26.066Z",
+      "modifiedTime": "2024-01-16T06:23:26.066Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "11I8ipdptB4AdTrHLcP4ZPehoVG3q0ARK",
+      "name": "b4",
+      "createdTime": "2024-01-16T06:23:26.066Z",
+      "modifiedTime": "2024-01-16T06:23:26.066Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1jlNLsXR3-gIuHwRM-hqSG5odX1wGa2ZS",
+      "name": "b1",
+      "createdTime": "2024-01-16T06:23:26.066Z",
+      "modifiedTime": "2024-01-16T06:23:26.066Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1vZJ-uI4BMqm_HNhkDztiq_0EHcsgq5jg",
+      "name": "c9",
+      "createdTime": "2024-01-16T06:23:26.066Z",
+      "modifiedTime": "2024-01-16T06:23:26.066Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1iXBFo48HcSXaR3pGxvAg5ER3LBfz6_xa",
+      "name": "ad",
+      "createdTime": "2024-01-16T06:23:26.066Z",
+      "modifiedTime": "2024-01-16T06:23:26.066Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "13cA8hzuf51KrnBqiAa71mUiKpLn3rb85",
+      "name": "heads",
+      "createdTime": "2024-01-16T06:23:24.657Z",
+      "modifiedTime": "2024-01-16T06:23:24.657Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1NvR3H_6z4Ioj-Sa5ODtVGowHn7-5G_Zf",
+      "name": "d4",
+      "createdTime": "2024-01-16T06:23:24.657Z",
+      "modifiedTime": "2024-01-16T06:23:24.657Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1GosYA85K1uwT_8Ku-1OYIaAqE4EcQ44d",
+      "name": "refs",
+      "createdTime": "2024-01-16T06:23:24.657Z",
+      "modifiedTime": "2024-01-16T06:23:24.657Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1tqS2YOP-mCfAx2VQChMgktJ5ib_m9SxM",
+      "name": "e6",
+      "createdTime": "2024-01-16T06:23:24.657Z",
+      "modifiedTime": "2024-01-16T06:23:24.657Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1C4n8VtrBBd3Ai9RWbrpofSoV1KOYLVco",
+      "name": "d1",
+      "createdTime": "2024-01-16T06:23:24.657Z",
+      "modifiedTime": "2024-01-16T06:23:24.657Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1pblf0K9kxHUZW6XfptixIZtAkopa-pD4",
+      "name": "d8",
+      "createdTime": "2024-01-16T06:23:24.657Z",
+      "modifiedTime": "2024-01-16T06:23:24.657Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1Lz2hbW_O0wydGYfLqDf2Sg597QB-j3PI",
+      "name": "d6",
+      "createdTime": "2024-01-16T06:23:24.657Z",
+      "modifiedTime": "2024-01-16T06:23:24.657Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1x3BD6j5KyDIRVX1A1o1weUlxJO5GnBM0",
+      "name": "remotes",
+      "createdTime": "2024-01-16T06:23:24.657Z",
+      "modifiedTime": "2024-01-16T06:23:24.657Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1Au7ntn_Z47xWxZEymFq9ug4QONGkTYmH",
+      "name": "cf",
+      "createdTime": "2024-01-16T06:23:24.657Z",
+      "modifiedTime": "2024-01-16T06:23:24.657Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "18Uc4SYWvJF8DW-ffu7_a7sUBYoQTRLXd",
+      "name": "ee",
+      "createdTime": "2024-01-16T06:23:24.657Z",
+      "modifiedTime": "2024-01-16T06:23:24.657Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1xqDyEmBEpGR6syTOfODp4h2A19tlS-5D",
+      "name": "3d",
+      "createdTime": "2024-01-16T06:23:22.730Z",
+      "modifiedTime": "2024-01-16T06:23:22.730Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1uhg_P32IDS5q4HGzX9zYlFFkkVS1DDNb",
+      "name": "0c",
+      "createdTime": "2024-01-16T06:23:22.730Z",
+      "modifiedTime": "2024-01-16T06:23:22.730Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1dyeg6hlXkMOnbW9cdlgDWRucPEnfqGTL",
+      "name": "03",
+      "createdTime": "2024-01-16T06:23:22.730Z",
+      "modifiedTime": "2024-01-16T06:23:22.730Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1N_Lvm55G6GPccrDGLvL5YZgMeR--TvGU",
+      "name": "6f",
+      "createdTime": "2024-01-16T06:23:22.730Z",
+      "modifiedTime": "2024-01-16T06:23:22.730Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1OhT-rYKGtoKebwlB63HZ4TAcurFDZMgG",
+      "name": "9b",
+      "createdTime": "2024-01-16T06:23:22.730Z",
+      "modifiedTime": "2024-01-16T06:23:22.730Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1I0WM6JIs2oKiPNvTQBq1LTEsU1oj6eWJ",
+      "name": "45",
+      "createdTime": "2024-01-16T06:23:22.730Z",
+      "modifiedTime": "2024-01-16T06:23:22.730Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1C3qqmh3Px_rGKRnZ9gBO8J_bDhxjy963",
+      "name": "07",
+      "createdTime": "2024-01-16T06:23:22.730Z",
+      "modifiedTime": "2024-01-16T06:23:22.730Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1SB_k4afWHBwleGwdkHWfP5wi674TZvij",
+      "name": "59",
+      "createdTime": "2024-01-16T06:23:22.730Z",
+      "modifiedTime": "2024-01-16T06:23:22.730Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1KXdwv2crbuaD9XvVP_NJwd3aiGP0ZhgX",
+      "name": "88",
+      "createdTime": "2024-01-16T06:23:22.730Z",
+      "modifiedTime": "2024-01-16T06:23:22.730Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1qZS9L0GkCGFhUHUU6UUa62gZD95WQs33",
+      "name": "9e",
+      "createdTime": "2024-01-16T06:23:22.730Z",
+      "modifiedTime": "2024-01-16T06:23:22.730Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1EDvDbb5L8nqkv7N0YfLz79Xm2_9de4FJ",
+      "name": "de",
+      "createdTime": "2024-01-16T06:23:21.402Z",
+      "modifiedTime": "2024-01-16T06:23:21.402Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "18kkJbxJVYwXE7dovZ-gwChnNGzRd3Pck",
+      "name": "a1",
+      "createdTime": "2024-01-16T06:23:21.402Z",
+      "modifiedTime": "2024-01-16T06:23:21.402Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1my7cVXlM2CUhj1oHlYR0Iz4qgUIkwfZ-",
+      "name": "d3",
+      "createdTime": "2024-01-16T06:23:21.402Z",
+      "modifiedTime": "2024-01-16T06:23:21.402Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1g21Y3Fz9Gb6IXZh0449JFAw3p4bZZeZn",
+      "name": "f4",
+      "createdTime": "2024-01-16T06:23:21.402Z",
+      "modifiedTime": "2024-01-16T06:23:21.402Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1HOxmBQuBpylTaNffYGMOYW08zT36ofIx",
+      "name": "a6",
+      "createdTime": "2024-01-16T06:23:21.402Z",
+      "modifiedTime": "2024-01-16T06:23:21.402Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1dcP0EYhxUktUSQW7IgC_znw5M1J0nBWq",
+      "name": "fc",
+      "createdTime": "2024-01-16T06:23:21.402Z",
+      "modifiedTime": "2024-01-16T06:23:21.402Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1M-iLSaGeAzr9QQPkLspraFGhhVwATFPd",
+      "name": "f7",
+      "createdTime": "2024-01-16T06:23:21.402Z",
+      "modifiedTime": "2024-01-16T06:23:21.402Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1zPoUqRHNjdZ5mi67nNEY-xtsl5TBKmBv",
+      "name": "bc",
+      "createdTime": "2024-01-16T06:23:21.402Z",
+      "modifiedTime": "2024-01-16T06:23:21.402Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1lKxWsxLO0tb9YOEyJZ_F_gvE2O33b4RF",
+      "name": "a8",
+      "createdTime": "2024-01-16T06:23:21.402Z",
+      "modifiedTime": "2024-01-16T06:23:21.402Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "10WV3ziQtj_qG0lKjhRQrO7bayIDbEOj7",
+      "name": "c9",
+      "createdTime": "2024-01-16T06:23:21.402Z",
+      "modifiedTime": "2024-01-16T06:23:21.402Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1Nri27t0wfhm0mN-BS2mwurrvrNVNiuHk",
+      "name": "Release",
+      "createdTime": "2024-01-16T06:23:19.335Z",
+      "modifiedTime": "2024-01-16T06:23:19.335Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1XzpcwciDHAENyAnKZ2ac1-tKgsVi1Y_a",
+      "name": "remotes",
+      "createdTime": "2024-01-16T06:23:19.335Z",
+      "modifiedTime": "2024-01-16T06:23:19.335Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1TCxIxz3CrszexFyY8XBzf1CZKfoE_THI",
+      "name": "heads",
+      "createdTime": "2024-01-16T06:23:19.335Z",
+      "modifiedTime": "2024-01-16T06:23:19.335Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1pMuc36MlX682ueB2eZ9Irx3lPfe_pRTz",
+      "name": "origin",
+      "createdTime": "2024-01-16T06:23:19.335Z",
+      "modifiedTime": "2024-01-16T06:23:19.335Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1-NlpV0KY0TCLeUSI5onlgZzrpuAzHm8L",
+      "name": "remotes",
+      "createdTime": "2024-01-16T06:23:19.335Z",
+      "modifiedTime": "2024-01-16T06:23:19.335Z"
+    },
+    {
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "shared": false,
+      "owners": [
+        {
+          "displayName": "Shane Short",
+          "kind": "drive#user",
+          "me": true,
+          "permissionId": "14788909137759120376",
+          "emailAddress": "shane.short5@gmail.com",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64"
+        }
+      ],
+      "permissions": [
+        {
+          "id": "14788909137759120376",
+          "displayName": "Shane Short",
+          "type": "user",
+          "kind": "drive#permission",
+          "photoLink": "https://lh3.googleusercontent.com/a/ACg8ocKAZ9CWW0hZjk9N1XDpoWQZePViFZqPvME3WiN3xG8wPrbrQwFK=s64",
+          "emailAddress": "shane.short5@gmail.com",
+          "role": "owner",
+          "deleted": false,
+          "pendingOwner": false
+        }
+      ],
+      "id": "1B5aK0gnv665ZgDWRplNHJtAJqfrPbYDX",
+      "name": "remotes",
+      "createdTime": "2024-01-16T06:23:19.335Z",
+      "modifiedTime": "2024-01-16T06:23:19.335Z"
+    }
+  ]
+}
